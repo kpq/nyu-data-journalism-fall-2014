@@ -44,24 +44,34 @@ Discussion:
 If you’ve never used <a href="http://git-scm.com/">Git</a> or <a href="https://github.com">Github</a> before, don’t worry, it’s not as scary as it may seem at first. It’s basically like <a href="https://www.dropbox.com/">Dropbox</a> for programmers, with enough goofy names and concepts to make it all feel a little more complicated than it really is.
 
 ###Using an online example.
-Say you want to make an interactive map of the United States and you don't know where to start, but you DO know what you want your map to look and behave pretty much like [this one](http://bl.ocks.org/mbostock/4060606) you've already seen. 
+Say you want to make an interactive map of the United States and you don't know where to start, but you DO know what you want your map to look kind of like [this one](http://bl.ocks.org/mbostock/4060606) you've already seen. 
 
 What do we need to learn?
 
-1. a
-2. b
-3. c
-4. d
-5. e
-6. f
-
+1. Using our terminal.
+2. Starting a local server: <code>python -m SimpleHTTPServer</code>  [http://localhost:8000/](http://localhost:8000/)
+3. Gathering/scraping/transforming data.
+4. How to join data to a map.
+5. Some basic html and css.
+6. [Colors](http://www.macwright.org/d3-curvy/) [Colorbrewer](http://colorbrewer2.org/)
+7. [optional: Rollovers]
+8. [Geography](http://web.stanford.edu/~jrodden/jrhome_files/electiondata.htm)
+9. [Projections](https://www.youtube.com/watch?v=vVX-PrBRtTY)
+10. Responsiveness.
+11. Publish it.
+12. [Content](http://www.nytimes.com/interactive/2013/01/29/us/where-50000-guns-in-chicago-came-from.html)
+13. [Right form](http://www.ericson.net/content/2011/10/when-maps-shouldnt-be-maps/)
+14. [Thinking creatively about data](http://deadspin.com/infographic-is-your-states-highest-paid-employee-a-co-489635228) [Another](http://www.nytimes.com/interactive/2014/05/11/upshot/up-soccer-table.html)
+15. [Even more creatively](http://www.karlward.com/blog/2014/04/th_s-lan_-is-yo_r-l_nd/)
 
 ##Homework
 
 Your assignment is to: 
 
-1. 
-2. 
+1. Gather data for a map (states, counties, or some other area you can find boundary information for.) You don't want to make a map about population, so be sure you 
+also gather a demoninator if you need it.
+
+
 
 <!-- 1. First, go to <a href="https://github.com/">Github</a> and create a username and password, etc. 
   <img src="github-welcome.png">.
