@@ -18,7 +18,7 @@ For many data journalism projects, the Census, BLS, state governments and academ
 ## Discussion:
 Interesting and fun "data" journalism (also called journalism) is also more creative than you might think. Some more examples.
 
-- How do you get [this](www.nytimes.com/2014/09/05/upshot/4th-down-when-to-go-for-it-and-why.html) come from [this](wp.advancedfootballanalytics.com/4thdncalc1.php?)?
+- How do you get [this](http://www.nytimes.com/2014/09/05/upshot/4th-down-when-to-go-for-it-and-why.html) come from [this](http://wp.advancedfootballanalytics.com/4thdncalc1.php?)?
 
 - What the NYT [thinks of Twitter](http://qz.com/130189/the-complete-history-of-twitter-as-told-through-tortured-descriptions-in-the-new-york-times/)
 
