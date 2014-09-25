@@ -71,14 +71,12 @@ Reactive Documents:
 [2](http://worrydream.com/Tangle/)
 [3](http://worrydream.com/ExplorableExplanations/)
 
-Goofy in kind of a bad way:
-[1](http://thewhyaxis.info/rasmussen/)
-
 Slideshow:
 [1](http://www.nytimes.com/interactive/2009/07/02/business/economy/20090705-cycles-graphic.html)
 [2](http://www.nytimes.com/interactive/2013/04/16/science/disease-overlap-in-elderly.html)
 [3](http://www.businessinsider.com/most-important-charts-in-the-world-q4-2013-10)
 
+**Don't "make a Snowfall"**
 
 ###Examples of published NYT projects that could be (supercharged) class projects:
 
@@ -86,9 +84,7 @@ Slideshow:
 
 -[Strikeouts on the Rise](http://www.nytimes.com/interactive/2013/03/29/sports/baseball/Strikeouts-Are-Still-Soaring.html) Your project could be a mix of analytical copy and charts. R charts would do just fine here if you didn't want to make them in a browser.
 
-
 -This [medium-sized chart](http://www.nytimes.com/interactive/2012/04/15/us/politics/Access-in-Washington-Rises-With-Donation-Size.html?ref=politics) is basically the result of merging two data sets, some basic data cleaning and asking interesting questions. It made this [A1 NYT story](http://www.nytimes.com/2012/04/15/us/politics/white-house-doors-open-for-big-donors.html?pagewanted=all#p7#h7) much more comprehensible.
-
 
 -[Lautenberg's Death Continues Sharp Decrease in Military Veterans in Senate](http://fivethirtyeight.blogs.nytimes.com/2013/06/03/with-lautenbergs-death-senate-lacks-a-world-war-ii-veteran) One of the most analytical popular blogs on the Internet has no fancy charts; instead, fact-based ledes and the data to back them up, sometimes accompanied by an Excel chart. Your project could be a more traditional mix of charts and prose, like this blog post.
 
@@ -113,9 +109,21 @@ Slideshow:
 
 -[NICAR stories](http://www.ire.org/resource-center/stories)
 
+## Some previous class projects
+
+• [Soccer tables](http://redzjohn.github.io/data-journalism-home/final-project.html), which turned into [something publishable](http://www.nytimes.com/interactive/2014/05/11/upshot/up-soccer-table.html?abt=0002&abg=0)
+
+• [Database of building permits](http://kuangkeng.github.io/keng-data-journalism/procurement%20project/combined/index.html)
+
+• [Pay gap in NYC](http://lilahrap.github.io/final-project/index.html)
+
+• [An article](http://newmanrhannah.github.io/invasive%20eats.html) about invasive species
+
+• [Where Canadian hockey players come from](http://kayleep.github.io/data-journalism-home/Canada/index.html)
+
 ## Project schedule
 
-By **class time on tk**, we'd like you to post a link to your github page to an HTML page with **three pitches** on it.
+By **noon on Monday, Oct. 13**, we'd like you to post a link to your github page to an HTML page with **three pitches** on it.
 
 Each pitch should include:
 
@@ -144,10 +152,10 @@ I would probably need to learn how to scrape the data from baseball-reference, s
 There are a number of stat-based sports sites that I could pitch this to, including the [Baseball Prospectus blog](http://www.baseballprospectus.com/blog/), [FanGraphs](http://www.fangraphs.com/blogs/) or more local sites, like the sports desks of the San Francisco Chronicle or the Oakland Tribune.
 
 
-Email kemanda with any questions.
+Email Kevin and Amanda with any questions.
 
 
-##Timeline for project success
+<!-- ##Timeline for project success
 We'll be making sure your projects get done with this general outline.
 
 ##tk
@@ -179,7 +187,7 @@ This will be a last minute sanity check. Copy should be written and everything s
 
 
 ##tk
-Presentations + projects due. Your project must be published with a final URL by the beginning of class. You will give a brief overview of your project and are required to be gracious during your classmates thunderous applause.
+Presentations + projects due. Your project must be published with a final URL by the beginning of class. You will give a brief overview of your project and are required to be gracious during your classmates thunderous applause. -->
 
 
 <!-- By **Date Feb 26**, you should update your pitch page (or make a new one) with your final pitch for your project. Most of you will just edit one of your original pitches and incoporate our feedback from last week, but some of you may need to re-pitch a new idea or two.
