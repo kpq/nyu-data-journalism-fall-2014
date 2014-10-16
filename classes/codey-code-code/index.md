@@ -30,6 +30,6 @@ You don't necessarily need to know html and CSS to be successful journalist in 2
 
 3. Insert `<html>`, `<head>`, `<title>` and `<body>` tags to make your page valid. Tabs matter!
 
-4. Check out some [sample content](base-markup.txt) we may have written as a class based on our excel exercises. Paste it into the `body` of your HTML page, and let's mark it up.
+4. Check out some [sample content](base-markup.txt) we may have written as a class based on our excel exercises. Paste it into the `body` of your HTML page, and let's mark it up. You might want to use [these docs](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5/HTML5_element_list) as a reference.
 
 5. Style the content to look as much like NYT content as possible. Use the inspector!
