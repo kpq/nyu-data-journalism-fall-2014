@@ -21,7 +21,7 @@ Now let's build it. Our goal is to replicate the functionality of the interactiv
 
 Things we need:
 
-1. Make sure you have Google Chrome and Sublime Text 2 downloaded and ready to rumble.
+1. Make sure you have Google Chrome and Sublime Text downloaded and ready to rumble.
 2. Make a older somewhere on your desktop and make an `index.html` page inside it. Add the following code as a starter.
 
   ```html
