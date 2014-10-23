@@ -9,7 +9,16 @@ We've had some of practice breaking down other applications and talking about ho
 ##Housekeeping
 
 - General thoughts on project pitches.
-- Talking about our class assignment.
+- Talking about our class assignment. We're missing a lot. Maybe update?
+
+
+<a href="http://juliashu.github.io/data-journalism/csspractice">Example</a>
+<a href="http://sherryhsieh.github.io/Data-Journalism/homework%20practice/index.html">Example</a>
+<a href="http://annacanlas.github.io/data-journalism/html-practice/index.html">Example</a>
+<a href="http://abrunker.github.io/data-journalism/html-homework.html">Example</a>
+<a href="http://ksurana6.github.io/datajournalism/test2.html">Example</a>
+<a href="http://as4092.github.io/data_journalism/homework/ABC.html">Example</a>
+<a href="http://zahra526.github.io/datajournalism1/htmlpracticeinclass.html">Example</a>
 
 ##Let's Make an App
 
